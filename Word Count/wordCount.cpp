@@ -23,5 +23,6 @@ int main(){
         i++;
     }
     cout<<"Total number of words in this file is : "<<noOfWords<<endl;
+    system("pause");
     return 0;
 }
